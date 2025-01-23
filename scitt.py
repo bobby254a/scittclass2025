@@ -4,3 +4,4 @@ You dont have to follow how I have started the game. Please use your creativity 
 print("Welcome to the Number Guessing Game!")
 pass
 pass 
+pass
